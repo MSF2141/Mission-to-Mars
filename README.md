@@ -10,6 +10,6 @@ Web scraping news and weather data about Mars.
 
 [part_2_mars_weather](https://github.com/MSF2141/Mission-to-Mars/blob/01361a2bbe9012eb91d68e3d402d32529f3c22bd/part_2_mars_weather.ipynb) contains the code in a Jupyter notebook for scraping the Mars weather data. The last part of this code cleans, visualizes, and analyzes the data.
 
-
+[Mars_weather_data](https://github.com/MSF2141/Mission-to-Mars/blob/11379cb08270b951838744c319a2bc03d7d46fec/Mars_weather_data.csv) is a csv file that contains scraped Mars weather data.
 
 
